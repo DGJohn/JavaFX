@@ -22,4 +22,7 @@ public class Main extends Application {
 		launch(args);
 	}
 
+	public void testFunc() {
+		System.out.println("Hello Gian!");
+	}
 }
